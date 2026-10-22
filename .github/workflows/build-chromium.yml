@@ -64,3 +64,4 @@ jobs:
         with:
           name: ThunderBrowser-Linux-x64
           path: chromium/src/out/ThunderBrowser/chrome
+          
